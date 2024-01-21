@@ -1,4 +1,3 @@
-create database clarkeenergia
 
 create table fornecedores (
 	id serial primary key,
