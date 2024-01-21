@@ -1,4 +1,4 @@
-const knex = require('../../conexao');
+const knex = require('../conexao');
 
 const fornecedoresEnergia = async (req, res) => {
     const { consumoMensal } = req.params
